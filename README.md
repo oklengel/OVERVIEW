@@ -35,8 +35,14 @@ https://github.com/oklengel/BlinkBrett
 | Language | Name | Describtion |  Link |
 |----------|------------------|-------------|-----------|
 | Python   | Py_Tesseract_Exp | Image to Text    | https://github.com/oklengel/Py_Tesseract_Exp          |   
-| Python   | DDRUW-HAIT-Scraping | Copy data from given links to xlsx      | https://github.com/oklengel/DDRUW-HAIT-Scraping  |   |   
-| HTML/JS | FFW-History-MAP | very simple interactive Leaflet map | https://github.com/oklengel/FFW-History-MAP |
+| Python   | DDRUW-HAIT-Scraping | Copy data from given links to xlsx; for DDRUW subproject in Radeberg, saxony | https://github.com/oklengel/DDRUW-HAIT-Scraping  |   |   
+| HTML/JS | FFW-History-MAP | very simple interactive Leaflet map  for DDRUW subproject in Heynitz, saxony| https://github.com/oklengel/FFW-History-MAP |
+|Python | DDRUW-RAD-T4 | PDF Table data anlysis for DDRUW subproject in Radeberg, saxony ||
+|Python | DDRUW-RAD-SRT_FILE-sorter | Facebook SRT generator bugfixing for DDRUW subproject in Radeberg, saxony ||
+
+
+* DDRUW: german for "Das Dritte Reich und wir", a reseach project under the direction of Dr. Clemens Tangerding
+https://dasdrittereichundwir.de/
 
 <!--| Python   | Mapcleaner - WIP | OBJ arealscan cleaner          |   |-->
 <!--| JS   | 4xWeather | Vanila,Angular,React and Vue Weatherapp frontend        |   |-->
