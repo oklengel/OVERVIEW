@@ -1,52 +1,52 @@
 # OVERVIEW
-## 3D, VR, AR
+## <u>3D, VR, AR</u>
 
 
-### Prototype, "Insight into the past" 🪟
+### •  Prototype, "Insight into the past" 🪟
 https://github.com/oklengel/FFW-History-ARExperience
 
 💤Current Problem: Works for Android and iPhone, but the natural movement of the user's hand or body cannot be smoothed by AR.js, so further development is on hold for now.
 
 
-## Fullstack
+## <u>Fullstack</u>″
 <!--### OpenProductionPlaner - Python, MariaDB, VUE 3
 Fullstack APS simulation-->
-## C++
+## <u>C++</u>
 
-### LibENVCPP
+### • LibENVCPP
 
 https://github.com/oklengel/LibEnvCPP
 
 Single header lib for parsing .ENV files
 
-## CLI Tools
-### PrintTime - C
+## <u>CLI Tools</u>
+### • PrintTime - C
 https://github.com/oklengel/printtime
 
-Simple time calculator.... don't leave your printer alone 😉
+ Simple time calculator.... don't leave your printer alone 😉
 
 
-### Texify - JS
+### • Texify - JS
 https://github.com/oklengel/texify
 
 Latex project generator
 
 
-## Embeded, Arduino & ESP32 
+## <u>Embeded, Arduino & ESP32 </u>
 
-### Toolhead-API - ARDUINO
+### • Toolhead-API - ARDUINO
 https://github.com/oklengel/Toolhead-API
 
 Idea behind this: G-Code is the language for 3D printers as HTML for webbrowsers. G-Code can access I2C, which enable awesome things like automatic custom toolheads. 
 
 💤 Project archived since my Ender 3+ has no external I2C.
-### BlinkBrett
+### • BlinkBrett
 https://github.com/oklengel/BlinkBrett
 
 🪦 public archive
 
 
-## Tests, experiments and small scripts
+## <u>Tests, experiments and small scripts</u>
 | Language | Name | Describtion |  Link |
 |----------|------------------|-------------|-----------|
 | Python   | Py_Tesseract_Exp | Image to Text    | https://github.com/oklengel/Py_Tesseract_Exp          |   
