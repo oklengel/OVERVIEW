@@ -2,7 +2,7 @@
 ## <u>3D, VR, AR</u>
 
 
-### •  Prototype, "Insight into the past" 🪟
+### •  Prototype, "Insight into the past" 🪟 - JS
 https://github.com/oklengel/FFW-History-ARExperience
 
 💤Current Problem: Works for Android and iPhone, but the natural movement of the user's hand or body cannot be smoothed by AR.js, so further development is on hold for now.
