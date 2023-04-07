@@ -1,4 +1,9 @@
 # OVERVIEW
+A list of my public repo's, orderd by category. 
+
+Why does the readme often mention "Windows is not supported"? I program to bring my ideas to life, solve problems and automate tasks. I need an operating system that's
+lightweight, fast, and reliable and offers a minimum of data privacy. Therefore I don't use Windows privately and havn't the possibility to port or test code on Microsoft Windows. However, most projects work under win10 or WSL.
+
 ## <u>3D, VR, AR</u>
 
 
@@ -7,6 +12,12 @@ https://github.com/oklengel/FFW-History-ARExperience
 
 💤Current Problem: Works for Android and iPhone, but the natural movement of the user's hand or body cannot be smoothed by AR.js, so further development is on hold for now.
 
+## <u>ML and AI</u>
+### • FFW-HEY-AlarmPrediction
+https://github.com/oklengel/FFW-HEY-AlarmPrediction
+
+Versuch Einsätze mittels machinellen Lernens vorherzusagen'. Um es kurz zu machen: Bisher kam es bei Wahrscheinlichkeiten von >65% immer zu Einsätzen für unsere Nachbarwehren, aber nicht für uns.
+'only german documentation
 
 ## <u>Fullstack</u>″
 <!--### OpenProductionPlaner - Python, MariaDB, VUE 3
@@ -30,6 +41,13 @@ https://github.com/oklengel/printtime
 https://github.com/oklengel/texify
 
 Latex project generator
+
+### • gen-mts - Bash
+https://github.com/oklengel/gen-mts
+
+Requires OpenScad, generates Material Sample Card like Patone Clips'
+
+' [like this color guide for designers](https://www.pantone.com/color-tools/physical-color-tools/plastics/the-pantone-matching-system-plastic-standard-chips-collection)
 
 
 ## <u>Embeded, Arduino & ESP32 </u>
@@ -62,5 +80,5 @@ https://dasdrittereichundwir.de/
 
 <!--| Python   | Mapcleaner - WIP | OBJ arealscan cleaner          |   |-->
 <!--| JS   | 4xWeather | Vanila,Angular,React and Vue Weatherapp frontend        |   |-->
-## ML Datasets
+
 
