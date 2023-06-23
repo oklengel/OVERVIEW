@@ -4,8 +4,34 @@ A list of my public repo's, orderd by category.
 Why does the readme often mention "Windows is not supported"? I program to bring my ideas to life, solve problems and automate tasks. I need an operating system that's
 lightweight, fast, and reliable and offers a minimum of data privacy. Therefore I don't use Windows privately and havn't the possibility to port or test code on Microsoft Windows. However, most projects work under win10 or WSL.
 
+
+## <u>Complex Projects</u>
+<!--
+### OpenProdPlan
+An advanced planing solution closes the gap between an ERP and the Shopfloor.
+
+<b>Advanced Planing System</b>
+- Java, Spring, Mariadb
+- VUE
+  
+<b>Maintainance System</b>
+- Kotlin
+- Flutter
+  
+<b>Machine Monitor</b>
+- VUE
+
+
+### Bank Demo
+<b> Bank Server API </b>
+<b> Bank App </b>
+<b> ATM </b>-->
 ## <u>3D, VR, AR</u>
 
+## Texify-WebUI
+https://github.com/oklengel/Texify-WebUI/tree/main/texify-angular
+
+Angular based Latex project generator.
 
 ### •  Prototype, "Insight into the past" 🪟 - JS
 https://github.com/oklengel/FFW-History-ARExperience
