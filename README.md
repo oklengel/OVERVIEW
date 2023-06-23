@@ -28,16 +28,16 @@ An advanced planing solution closes the gap between an ERP and the Shopfloor.
 <b> ATM </b>-->
 ## <u>3D, VR, AR</u>
 
-## Texify-WebUI
-https://github.com/oklengel/Texify-WebUI/tree/main/texify-angular
-
-Angular based Latex project generator.
-
 ### •  Prototype, "Insight into the past" 🪟 - JS
 https://github.com/oklengel/FFW-History-ARExperience
 
 💤Current Problem: Works for Android and iPhone, but the natural movement of the user's hand or body cannot be smoothed by AR.js, so further development is on hold for now.
+## WebApps
 
+### Texify-WebUI
+https://github.com/oklengel/Texify-WebUI/tree/main/texify-angular
+
+Angular based Latex project generator.
 ## <u>ML and AI</u>
 ### • FFW-HEY-AlarmPrediction
 https://github.com/oklengel/FFW-HEY-AlarmPrediction
